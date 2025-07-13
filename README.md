@@ -4,7 +4,7 @@ Bu projede C# programlama dili kullanılarak kalıtım (inheritance) konusuna y�
 
 # Sınıflar ve Yapılar
 
-# BasePerson Sınıfı
+## BasePerson Sınıfı
 Ortak özellikleri içerir: FirstName, LastName
 PrintFullName() metodu ile ad ve soyad bilgisi ekrana yazdırılır.
 
